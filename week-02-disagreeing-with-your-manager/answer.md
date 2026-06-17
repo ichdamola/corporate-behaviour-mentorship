@@ -5,6 +5,14 @@
 
 ---
 
+## 0. Before move 1 — Is the decision actually still open?
+
+This walkthrough assumes the rewrite is leaning, not locked. **Confirm that first.** A surprising number of "we're considering a rewrite" framings are actually "we're announcing a rewrite, softly." If your manager's already committed to this upward — to their boss, to the team in a Slack post, to a public roadmap — the move is no longer "disagree," it's "understand and commit" (skip to move 9). The 1:1 opener for the check is small and non-confrontational:
+
+> 💬 **How to say it:** "Quick one before the rebuild call locks — want to make sure I'm not missing context. Is this still being weighed or has it been decided already?"
+
+If they say "it's decided," your week-02 ends with move 9 and your follow-up move (a clean recap, helpful commitment to the new direction) is the entire performance. Pushing further once the decision is closed turns this from "thoughtful dissent" into "doesn't accept outcomes" — exactly the file the curriculum is trying to keep you out of.
+
 ## 1. Read the room
 
 Your manager is leaning toward a full rewrite and seems invested. "Invested" is the key read. People defend decisions they've emotionally committed to harder than decisions they're still weighing — so *when* you raise this matters as much as *how*. The decision isn't final, which means there's still a window. Walk through it before it closes.
@@ -41,7 +49,9 @@ This is a **1:1, synchronous, private** conversation — never a public thread, 
 
 After the conversation, a short written recap is fine (move 7) — but the disagreement itself happens face to face.
 
-> 💬 **How to say it:** "Do you have 15 minutes before this locks? I've got some thoughts on the rebuild vs. refactor call I'd like to think through with you."
+> 💬 **How to say it:** "Quick one before the rebuild call locks — want to make sure I'm not missing context. Got 15?"
+
+That opener leads with the work and your humility, not your dissent. The earlier draft ("I've got some thoughts I'd like to think through with you") pre-announces a challenge and hands an insecure manager 15 minutes to load defensive ammunition before you've even started. The shorter form keeps the door open.
 
 ## 5. Headline first — but as a question, not a verdict
 
@@ -57,7 +67,7 @@ Here's the counter-intuitive part. With a *peer* you'd lead with your bottom lin
 
 Everything in this conversation is carried by tone. The same sentence — "I think the rewrite is a mistake" — is a career-limiting move if it's delivered with edge and a perfectly normal contribution if it's delivered flat and factual.
 
-Neutral here means: no "obviously," no "everyone knows," no sighing, no "I've been saying this." Just the facts and your reasoning, stated once, calmly. The video's point lands hard here: *being right is worthless if you deliver it in a way that makes you look unhinged.* Clean and factual can't be twisted into "they were being difficult."
+Neutral here means: no "obviously," no "everyone knows," no sighing, no "I've been saying this." Just the facts and your reasoning, stated once, calmly. The principle: *being right is worthless if you deliver it in a way that makes you look unhinged.* Clean and factual can't be twisted into "they were being difficult."
 
 > 💬 **How to say it:** "I could be wrong about this, and you've got context I don't. But based on what I'm seeing, the refactor path gets us 80% of the benefit in about a fifth of the time. That tradeoff feels worth naming before we commit."
 
@@ -72,6 +82,18 @@ After the conversation, a brief written summary is good practice — *if* it's f
 ✅ Input (clean): "Thanks for talking it through. Summarizing where I landed so it's captured: refactor gets ~80% of the value in ~3 weeks vs. ~2 quarters; main risk of the rewrite is timeline + the two prior rewrites that slipped. Whatever we decide, happy to help make it work."
 
 > 💬 **How to say it:** Always end the receipt with a commitment to the outcome, not a hedge against it.
+
+### ⚠️ When this advice flips
+
+The "input, not insurance" rule is the right default. It assumes a good-faith manager who'll own the outcome. **Three scenarios where it doesn't apply:**
+
+1. **Bad-faith manager (looking for a scapegoat).** If you have direct evidence — pattern of pinning slips on the closest IC, history of "rewriting history" in retros, peers warning you privately — keep a **personal timestamped doc** of what you raised and when. *Not* an email "for the record" to them; not a Slack post. A private file in your notes app you'd hand to HR or your skip-level if the situation requires it later. The toxic version goes outward; this version stays inward until it's needed.
+
+2. **Power-imbalanced position.** Junior on the team, on a visa, sole IC of your demographic on the team — the math on a tanked rewrite gets pinned on you regardless of who decided. The "I could be wrong about this" hedge that reads as gracious from a senior IC reads as confirmation of incompetence from someone whose competence is already under-credited. Substitute: *"based on what I'm seeing today"* — same epistemic humility, no self-deprecation handle.
+
+3. **Genuinely abusive manager.** If "stay composed, leave a clean receipt, route through them not over them" maps onto a manager who responds to dissent with retaliation, this curriculum's advice is the wrong frame entirely. The move is to document privately, identify a safe escalation path (skip-level, HR, mentor outside your reporting chain), and recognize that "compose first" can become "absorb harm." Composure is a tool, not an obligation.
+
+Use the default. Note when you're in one of these. Don't pretend the bad-faith case is rare — it isn't.
 
 ## 8. Route it up or down
 

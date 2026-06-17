@@ -5,6 +5,8 @@
 
 🌟 Star this repo if you're trying to get promoted, manage a team, or just stop replaying conversations at 2am.
 
+> ⚠️ **Status, plainly:** Weeks 01–03 are written out in full (situation + 10-move walkthrough + cues). **Weeks 04–16 ship as scaffolds today** — the situation prompts are complete, the walkthroughs and cues are skeletons that will be filled in. If you're a mentee, this means you can run the full loop on weeks 01–03 today; for weeks 04+ you'll get the prompt and the structure but you're filling in the canonical answer with your mentor for now.
+
 ## 🎯 Why this exists
 
 Most career advice teaches you *what* to think. This curriculum teaches you the *rhythm* a composed operator uses under pressure — read the room, name the goal, deliver neutrally, leave a receipt, route it up or down, close the loop.
@@ -49,28 +51,28 @@ flowchart LR
 
 Interleaved through every move: 💬 **"how to say it"** callouts — literal phrases (and emails) a composed operator uses.
 
-**On move 6 (stay neutral):** neutral is not cold and it's not performative warmth. It's matter-of-fact with no edge — clean enough that nobody can repeat it back to make you look bad. This is the single skill that separates "competent" from "senior" in most rooms, so it's drilled in every week.
+**On move 6 (stay neutral):** neutral is not cold and it's not performative warmth. It's matter-of-fact with no edge — clean enough that nobody can repeat it back to make you look bad. **Neutral is the right setting in *charged* moments** (disagreement, bad news, comp, performance, conflict). Outside those moments, your full personality is the move — the same person can be warm and funny in standups and surgical in a hard 1:1. The skill is recognizing which moment you're in, not flattening every moment into the same tone.
 
 ## 📁 Curriculum
 
-| ☐ | Week | Situation | Axis | Difficulty |
-| --- | ---- | --------- | ---- | ---------- |
-| ☐ | 01 | [The status update that makes you look good](week-01-status-update-managing-up) | ⬆️ Up | ⭐ |
-| ☐ | 02 | [Disagreeing with your manager](week-02-disagreeing-with-your-manager) | ⬆️ Up | ⭐⭐ |
-| ☐ | 03 | [Saying no without burning the relationship](week-03-saying-no-without-burning-it) | ↔️ Lateral | ⭐⭐ |
-| ☐ | 04 | [Delivering bad news / a missed deadline](week-04-delivering-bad-news) | ⬆️ Up | ⭐⭐ |
-| ☐ | 05 | [New manager / reorg: building trust fast](week-05-new-manager-reorg) | ⬆️ Up | ⭐⭐ |
-| ☐ | 06 | [Giving hard feedback to a report](week-06-feedback-to-a-report) | ⬇️ Down | ⭐⭐⭐ |
-| ☐ | 07 | [The underperformer (the PIP conversation)](week-07-the-underperformer) | ⬇️ Down | ⭐⭐⭐⭐ |
-| ☐ | 08 | [Getting credit / handling credit theft](week-08-credit-and-credit-theft) | ↔️ Lateral | ⭐⭐⭐ |
-| ☐ | 09 | [The skip-level meeting](week-09-the-skip-level) | ⬆️ Up | ⭐⭐⭐ |
-| ☐ | 10 | [Pushing back on an unrealistic deadline](week-10-pushing-back-on-a-deadline) | ⬆️ Up | ⭐⭐⭐ |
-| ☐ | 11 | [The difficult peer](week-11-the-difficult-peer) | ↔️ Lateral | ⭐⭐⭐ |
-| ☐ | 12 | [Managing up to a chaotic / absent manager](week-12-managing-up-to-chaos) | ⬆️ Up | ⭐⭐⭐ |
-| ☐ | 13 | [Asking for a promotion](week-13-asking-for-a-promotion) | ⬆️ Up | ⭐⭐⭐⭐ |
-| ☐ | 14 | [Compensation negotiation](week-14-compensation-negotiation) | ⬆️ Up | ⭐⭐⭐⭐ |
-| ☐ | 15 | [Leading without authority](week-15-leading-without-authority) | ↔️ Lateral | ⭐⭐⭐⭐ |
-| ☐ | 16 | [Org instability / layoffs (you + your team)](week-16-org-instability-layoffs) | ⬆️⬇️ Both | ⭐⭐⭐⭐ |
+| ☐ | Week | Situation | Axis | Difficulty | Status |
+| --- | ---- | --------- | ---- | ---------- | ------ |
+| ☐ | 01 | [The status update that makes you look good](week-01-status-update-managing-up) | ⬆️ Up | ⭐ | ✅ Complete |
+| ☐ | 02 | [Disagreeing with your manager](week-02-disagreeing-with-your-manager) | ⬆️ Up | ⭐⭐ | ✅ Complete |
+| ☐ | 03 | [Saying no without burning the relationship](week-03-saying-no-without-burning-it) | ↔️ Lateral | ⭐⭐ | ✅ Complete |
+| ☐ | 04 | [Delivering bad news / a missed deadline](week-04-delivering-bad-news) | ⬆️ Up | ⭐⭐ | 🚧 Scaffold |
+| ☐ | 05 | [New manager / reorg: building trust fast](week-05-new-manager-reorg) | ⬆️ Up | ⭐⭐ | 🚧 Scaffold |
+| ☐ | 06 | [Giving hard feedback to a report](week-06-feedback-to-a-report) | ⬇️ Down | ⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 07 | [The underperformer (the PIP conversation)](week-07-the-underperformer) | ⬇️ Down | ⭐⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 08 | [Getting credit / handling credit theft](week-08-credit-and-credit-theft) | ↔️ Lateral | ⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 09 | [The skip-level meeting](week-09-the-skip-level) | ⬆️ Up | ⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 10 | [Pushing back on an unrealistic deadline](week-10-pushing-back-on-a-deadline) | ⬆️ Up | ⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 11 | [The difficult peer](week-11-the-difficult-peer) | ↔️ Lateral | ⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 12 | [Managing up to a chaotic / absent manager](week-12-managing-up-to-chaos) | ⬆️ Up | ⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 13 | [Asking for a promotion](week-13-asking-for-a-promotion) | ⬆️ Up | ⭐⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 14 | [Compensation negotiation](week-14-compensation-negotiation) | ⬆️ Up | ⭐⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 15 | [Leading without authority](week-15-leading-without-authority) | ↔️ Lateral | ⭐⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 16 | [Org instability / layoffs (you + your team)](week-16-org-instability-layoffs) | ⬆️⬇️ Both | ⭐⭐⭐⭐ | 🚧 Scaffold |
 
 ## 📋 How each week works
 
@@ -95,7 +97,20 @@ Open the week's folder. You'll find three files:
 2. **Neutral beats clever.** Clean and factual can't be twisted. Sarcasm, edge, and over-explaining all hand the other person ammunition.
 3. **Receipts, not memory.** "We agreed" loses to "here's the thread." Put decisions in writing — calmly, as a recap, not a gotcha.
 4. **Manage the perception, not just the work.** Doing great work nobody sees is a choice to stay invisible. Visibility without bragging is a skill.
-5. **Route, don't absorb.** Most problems belong up (to your manager) or down (to your report). Quietly eating them yourself is not loyalty — it's a bottleneck.
+5. **Route, don't absorb — but route to the right place.** Most problems belong somewhere other than your queue. Up (manager) and down (report) are two destinations; **the third — often the right one — is the peer, the shared planning forum, or the work itself.** Defaulting to "raise it with my manager" can read as junior in flat / matrix orgs where you're expected to self-negotiate with peers first. Quietly absorbing is a bottleneck; reflexively routing up is its own anti-pattern.
+
+## 🌍 Cultural calibration
+
+This curriculum is written from a **US/UK low-context workplace baseline**. The composure principles (compose first, neutral delivery, receipts, route-don't-absorb) transplant globally. The specific scripts often don't. If you're in a **high-context** or **hierarchical** workplace culture — Japanese, Korean, much of South Asia and West Africa, parts of Latin America — the moves still apply but the wording is too direct. The week 02 opener ("I think you might be wrong about the rebuild") that lands well in Berlin or San Francisco can read as career-ending in Tokyo or Lagos.
+
+Treat each script as **the shape of the move, not the words to say**. The intent (raise a concern privately, before the decision locks) is portable. The phrasing routes through your culture's accepted indirection — a question that surfaces the concern without forcing your manager to defend the call, a written observation that invites a response, a delay that creates space to revisit.
+
+## 💻 Modern medium
+
+Most of these conversations now happen **in writing — Slack/Teams DMs, threads, Notion docs, async standups** — not in calendared 1:1s. A few moments still call for sync (week 02 disagreement, week 06 hard feedback, week 07 PIP); most don't. Two consequences this curriculum assumes:
+
+1. **Write each message assuming it will be quoted, screenshotted, or summarized** — and you'll never see the summary. Hedges get stripped, conclusions get amplified. The "headline first" move applies whether you're speaking or typing.
+2. **LLMs are now in the loop.** Performance reviews, promo packets, and even your manager's response to your Slack message increasingly pass through Claude/ChatGPT first. "Leave a receipt" now also means "leave one that summarizes cleanly when an LLM reads it." Specific verbs and numbers survive summarization; hedges and adjectives don't.
 
 ## 🧩 Cross-cutting concern: composure
 
@@ -126,6 +141,11 @@ Every situation in this repo shares the same substrate. Regardless of the week, 
 - *The First 90 Days* by Michael Watkins — reorgs, new managers, building trust fast
 - *Never Split the Difference* by Chris Voss — negotiation and staying calm in tension
 - *Working Identity* / *Act Like a Leader, Think Like a Leader* by Herminia Ibarra — leading without authority
+- *The Manager's Path* by Camille Fournier — the engineering-management-specific take, modern and IC-aware
+- *Staff Engineer* by Will Larson — the senior-IC track explicitly (most of the canon assumes management)
+- *The Culture Map* by Erin Meyer — for the cultural calibration above; covers how the same advice plays differently in different workplace cultures
+
+> The canon above is Anglo-centric and largely written 2010–2020. Read for the principles; calibrate the scripts to your culture and decade.
 
 ## 🔗 Contributing
 

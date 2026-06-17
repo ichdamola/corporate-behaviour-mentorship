@@ -59,7 +59,7 @@ Same week. Completely different signal.
 
 ## 6. Stay neutral
 
-This is the move people fox up. Two failure modes:
+This is the move people miscalibrate. Two failure modes:
 
 - **The oversell:** "I absolutely *crushed* it this week, honestly carried the project." → The room mentally discounts you. Confidence that announces itself reads as insecurity.
 - **The undersell:** "Yeah, didn't get as much done as I wanted, just the bug really." → You hand the room permission to underrate you.
@@ -68,7 +68,7 @@ Neutral is the cure for both. State impact as a **matter of fact**, no edge, no 
 
 > 💬 **How to say it:** Flat, even tone. "Checkout's fixed. It was hitting 4% of users at payment." Then *stop talking.* Let it land.
 
-**The video's lesson applies directly here:** the most composed person in the room is the one who states their wins plainly and lets others draw the conclusion. You don't need to sell it if the fact sells itself.
+**The underlying principle:** the most composed person in the room is the one who states their wins plainly and lets others draw the conclusion. You don't need to sell it if the fact sells itself.
 
 ## 7. Leave a receipt
 

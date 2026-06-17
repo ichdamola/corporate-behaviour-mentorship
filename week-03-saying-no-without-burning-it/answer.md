@@ -71,13 +71,19 @@ This is the quiet superpower of declining in writing: the no can't be re-narrate
 
 > 💬 **How to say it:** *(internally)* "The thread is my defense. Keep it warm and clear enough that I'd be happy for my manager to read it."
 
-## 8. Route it up or down
+## 8. Route it to the right place — *not* always up
 
-This is the move that turns a flat no into a *helpful* no. The priority decision doesn't belong to you — it belongs to your manager (and arguably the peer's manager / the shared roadmap). So route it there instead of absorbing the call yourself.
+This is the move that turns a flat no into a *helpful* no. The priority decision doesn't belong to you — it belongs to **the right shared decision-making forum for your two teams**. Often that's your manager. Sometimes it's the joint planning ritual, the cross-team prioritization doc, the next quarterly review, or just a direct conversation between the two of you about tradeoffs. *Default isn't "route up" — default is "route to the forum that actually owns this prioritization."*
 
-> 💬 **How to say it:** "If you think this should jump my queue, the cleanest path is to raise it with [my manager] so we can look at priorities together — happy to be part of that conversation. I just can't unilaterally swap it in."
+> 💬 **How to say it (if the right place is a shared forum):** "This should land in the cross-team planning doc / next quarterly review — that's where we weigh integration asks against everything else. Happy to add it with context."
+
+> 💬 **How to say it (if the right place really is your manager):** "If you think this should jump my queue, the cleanest path is to raise it with [my manager] so we can look at priorities together — happy to be part of that conversation. I just can't unilaterally swap it in."
 
 This does something subtle: it's no longer you rejecting them, it's you pointing them at the correct decision-maker. If it's truly important, the system can reprioritize it through the right channel. If it's not, it quietly dies — without you being the bad guy.
+
+> ⚠️ **One follow-up that matters.** If you say "raise it with my manager," **also tell your manager yourself**: "FYI, declined an integration ask from [peer] this morning. If they DM you, here's the context." Otherwise the peer reaches your manager first and frames your workload negotiation without you in the room. The receipt protects you; the heads-up keeps you present.
+
+> 💡 **In a flat / matrix org**, "route to my manager" can read as *can't handle a peer Slack without asking my mom*. In those orgs, the better move is to have the prioritization conversation peer-to-peer first, and only loop in managers if you can't reach a working answer.
 
 ## 9. Hold the boundary
 

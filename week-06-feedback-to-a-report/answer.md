@@ -27,7 +27,7 @@
 > 💬 **How to say it:** "..."
 
 ## 6. Stay neutral
-*The move that carries everything. No edge, no apology spiral, no performance. Clean and factual so it can't be twisted. This is the video's core lesson applied to this situation.*
+*The move that carries everything. No edge, no apology spiral, no performance. Clean and factual so it can't be twisted.*
 
 > 💬 **How to say it:** "..."
 
