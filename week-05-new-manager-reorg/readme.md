@@ -1,10 +1,10 @@
-# Week 05: New manager / reorg — building trust fast
+# Week 05: New manager / reorg - building trust fast
 
 ## 🎯 The situation
 
 A reorg just dropped. You have a new manager who doesn't know you, your work, or why you're good. Everyone on the team is quietly being re-evaluated from zero. The people who reset the relationship deliberately come out ahead; the people who assume their old reputation carries over get re-filed as average.
 
-You have one early 1:1 with the new manager. You need to establish who you are, how you work, and that you're someone they can rely on — without dumping or campaigning.
+You have one early 1:1 with the new manager. You need to establish who you are, how you work, and that you're someone they can rely on - without dumping or campaigning.
 
 **Constraints:**
 
@@ -26,5 +26,5 @@ You have one early 1:1 with the new manager. You need to establish who you are, 
 - You ask about *their* priorities and working style before pitching yourself
 - You give a crisp, factual picture of what you own and how you operate
 - You surface how you like to communicate (and ask how they do)
-- You leave with one concrete thing to deliver — and then deliver it early
+- You leave with one concrete thing to deliver - and then deliver it early
 - No trash-talking the old regime; neutral, forward-looking, composed

@@ -1,7 +1,7 @@
-# Week 03: Saying no without burning the relationship — Walkthrough
+# Week 03: Saying no without burning the relationship - Walkthrough
 
 > ⏱️ **Time budget:** one Slack reply (or short chat), 10 minutes to draft
-> 🎯 **Goal:** Decline a request that isn't yours to take on, protect your roadmap, and keep the peer thinking you're a clear, helpful operator — not a blocker.
+> 🎯 **Goal:** Decline a request that isn't yours to take on, protect your roadmap, and keep the peer thinking you're a clear, helpful operator - not a blocker.
 
 ---
 
@@ -9,11 +9,11 @@
 
 A peer is asking you to own a multi-week piece of work that isn't on your roadmap, framed with a compliment ("you're the only one who really gets it"). Read the actual dynamics:
 
-- The flattery is doing work — it's designed (consciously or not) to make "no" feel like letting them down.
+- The flattery is doing work - it's designed (consciously or not) to make "no" feel like letting them down.
 - Your manager owns your priorities and doesn't know this ask exists.
 - Saying yes by reflex is exactly how you got buried last quarter.
 
-The request isn't malicious. The peer has a real problem and you're a plausible solution. That's *why* a clean no matters — you want to decline the work without rejecting the person.
+The request isn't malicious. The peer has a real problem and you're a plausible solution. That's *why* a clean no matters - you want to decline the work without rejecting the person.
 
 > 💬 **How to say it:** *(internally)* "Real problem, wrong owner. Decline the task, keep the relationship."
 
@@ -35,13 +35,13 @@ The *feeling* is guilt ("they'll think I'm not a team player"). The *facts* are 
 
 Notice: you don't need to invent a reason or exaggerate how busy you are. The real, neutral facts are sufficient. Made-up reasons ("I'm slammed this sprint") are weaker than true ones ("this isn't on my roadmap and my manager owns that"), because invented reasons can be negotiated away ("oh, it can wait till next sprint!").
 
-> 💬 **How to say it:** *(internally)* "What's the true, neutral reason — the one that can't be bargained down?"
+> 💬 **How to say it:** *(internally)* "What's the true, neutral reason - the one that can't be bargained down?"
 
 ## 4. Pick the channel
 
-They Slacked you, so Slack is fine to reply on — *but* match the weight of the ask. A multi-week commitment deserves more than a one-line "nah." A short, warm, structured written reply is ideal: it's async (no pressure to cave in real time), it's a receipt, and it lets you choose your words deliberately instead of getting talked out of your no live.
+They Slacked you, so Slack is fine to reply on - *but* match the weight of the ask. A multi-week commitment deserves more than a one-line "nah." A short, warm, structured written reply is ideal: it's async (no pressure to cave in real time), it's a receipt, and it lets you choose your words deliberately instead of getting talked out of your no live.
 
-If the relationship is sensitive or senior, a 5-minute call can be warmer — but written keeps you composed.
+If the relationship is sensitive or senior, a 5-minute call can be warmer - but written keeps you composed.
 
 > 💬 **How to say it:** *(internally)* "Reply in writing so I control the words and leave a clean trail."
 
@@ -51,13 +51,13 @@ Put the no *near the top*. The most common mistake is burying the decline under 
 
 ❌ "Hey! Wow, thanks so much for thinking of me, that means a lot, I really do find this stuff interesting, and I'd genuinely love to help if I possibly can, it's just that things are a little hectic right now so I'm not totally sure, but maybe..." → They smell the yes underneath.
 
-✅ "Hey — flattered you thought of me, and this is a cool problem. I can't take on the integration piece, though — it's not on my roadmap and my plate's committed this quarter. Here's what I *can* do..."
+✅ "Hey - flattered you thought of me, and this is a cool problem. I can't take on the integration piece, though - it's not on my roadmap and my plate's committed this quarter. Here's what I *can* do..."
 
-> 💬 **How to say it:** "I can't own this one — but here's a way I can help."
+> 💬 **How to say it:** "I can't own this one - but here's a way I can help."
 
 ## 6. Stay neutral
 
-The whole reply should be warm but neutral — no apology spiral, no over-explaining, no defensiveness. One clean "I can't," stated once, beats five soft "I'm so sorry"s. Over-apologizing actually signals that you think you're doing something wrong, which invites pushback.
+The whole reply should be warm but neutral - no apology spiral, no over-explaining, no defensiveness. One clean "I can't," stated once, beats five soft "I'm so sorry"s. Over-apologizing actually signals that you think you're doing something wrong, which invites pushback.
 
 Neutral here also means: don't badmouth your own workload as an excuse, don't throw your manager under the bus ("they won't let me"), don't get into a negotiation about *how* busy you are. State it as settled fact and move to the alternative.
 
@@ -65,21 +65,21 @@ Neutral here also means: don't badmouth your own workload as an excuse, don't th
 
 ## 7. Leave a receipt
 
-Your written reply *is* the receipt — and it's a good one to have. If the peer later tells your manager "I asked them and they wouldn't help," the thread shows you responded fast, declined clearly, *and* offered an alternative. Clean record, favorable to you.
+Your written reply *is* the receipt - and it's a good one to have. If the peer later tells your manager "I asked them and they wouldn't help," the thread shows you responded fast, declined clearly, *and* offered an alternative. Clean record, favorable to you.
 
 This is the quiet superpower of declining in writing: the no can't be re-narrated as rudeness because the actual words are right there, neutral and kind.
 
 > 💬 **How to say it:** *(internally)* "The thread is my defense. Keep it warm and clear enough that I'd be happy for my manager to read it."
 
-## 8. Route it to the right place — *not* always up
+## 8. Route it to the right place - *not* always up
 
-This is the move that turns a flat no into a *helpful* no. The priority decision doesn't belong to you — it belongs to **the right shared decision-making forum for your two teams**. Often that's your manager. Sometimes it's the joint planning ritual, the cross-team prioritization doc, the next quarterly review, or just a direct conversation between the two of you about tradeoffs. *Default isn't "route up" — default is "route to the forum that actually owns this prioritization."*
+This is the move that turns a flat no into a *helpful* no. The priority decision doesn't belong to you - it belongs to **the right shared decision-making forum for your two teams**. Often that's your manager. Sometimes it's the joint planning ritual, the cross-team prioritization doc, the next quarterly review, or just a direct conversation between the two of you about tradeoffs. *Default isn't "route up" - default is "route to the forum that actually owns this prioritization."*
 
-> 💬 **How to say it (if the right place is a shared forum):** "This should land in the cross-team planning doc / next quarterly review — that's where we weigh integration asks against everything else. Happy to add it with context."
+> 💬 **How to say it (if the right place is a shared forum):** "This should land in the cross-team planning doc / next quarterly review - that's where we weigh integration asks against everything else. Happy to add it with context."
 
-> 💬 **How to say it (if the right place really is your manager):** "If you think this should jump my queue, the cleanest path is to raise it with [my manager] so we can look at priorities together — happy to be part of that conversation. I just can't unilaterally swap it in."
+> 💬 **How to say it (if the right place really is your manager):** "If you think this should jump my queue, the cleanest path is to raise it with [my manager] so we can look at priorities together - happy to be part of that conversation. I just can't unilaterally swap it in."
 
-This does something subtle: it's no longer you rejecting them, it's you pointing them at the correct decision-maker. If it's truly important, the system can reprioritize it through the right channel. If it's not, it quietly dies — without you being the bad guy.
+This does something subtle: it's no longer you rejecting them, it's you pointing them at the correct decision-maker. If it's truly important, the system can reprioritize it through the right channel. If it's not, it quietly dies - without you being the bad guy.
 
 > ⚠️ **One follow-up that matters.** If you say "raise it with my manager," **also tell your manager yourself**: "FYI, declined an integration ask from [peer] this morning. If they DM you, here's the context." Otherwise the peer reaches your manager first and frames your workload negotiation without you in the room. The receipt protects you; the heads-up keeps you present.
 
@@ -87,33 +87,33 @@ This does something subtle: it's no longer you rejecting them, it's you pointing
 
 ## 9. Hold the boundary
 
-Offer a **smaller, bounded alternative** so the no isn't a wall — but make sure it's genuinely small and time-boxed, not a foot in the door for the full ask.
+Offer a **smaller, bounded alternative** so the no isn't a wall - but make sure it's genuinely small and time-boxed, not a foot in the door for the full ask.
 
 > 💬 **How to say it:** "What I *can* do: jump on a 30-minute call this week to walk you through the integration so whoever owns it isn't starting cold, and review their design once. That should de-risk the hard part without me owning the build."
 
-Then hold it. If they come back with "amazing, so can you just do the first part too?" — restate the boundary calmly, once. You already gave a generous, real offer; you don't owe an escalating series of yeses.
+Then hold it. If they come back with "amazing, so can you just do the first part too?" - restate the boundary calmly, once. You already gave a generous, real offer; you don't owe an escalating series of yeses.
 
-> 💬 **How to say it (if pushed):** "I'll do the walkthrough and the design review — that part I'm glad to help with. Owning the build I can't, for the reasons above."
+> 💬 **How to say it (if pushed):** "I'll do the walkthrough and the design review - that part I'm glad to help with. Owning the build I can't, for the reasons above."
 
 ## 10. Close the loop
 
-Do the small thing you offered, well and promptly. A no followed by a genuinely useful 30-minute walkthrough leaves the peer thinking "that person is generous and clear" — which is a *better* outcome for the relationship than a resentful, overcommitted yes would have been. Closing the loop on the small offer is what converts a decline into deposited goodwill.
+Do the small thing you offered, well and promptly. A no followed by a genuinely useful 30-minute walkthrough leaves the peer thinking "that person is generous and clear" - which is a *better* outcome for the relationship than a resentful, overcommitted yes would have been. Closing the loop on the small offer is what converts a decline into deposited goodwill.
 
 > 💬 **How to say it:** *(internally)* "The yes I gave is small but real. Deliver it well and the no is forgotten; the helpfulness is what sticks."
 
 ---
 
-## Putting it together — the full reply
+## Putting it together - the full reply
 
-> "Hey — flattered you thought of me, and it's a genuinely interesting problem. I can't take on the integration piece, though; it's not on my roadmap and my quarter's already committed. If you think it should jump the queue, the cleanest path is to raise it with [my manager] so we can weigh it against everything else — happy to join that. What I *can* do regardless: a 30-min walkthrough this week so whoever owns it isn't starting from zero, plus a design review once they've got a draft. Want me to grab time for the walkthrough?"
+> "Hey - flattered you thought of me, and it's a genuinely interesting problem. I can't take on the integration piece, though; it's not on my roadmap and my quarter's already committed. If you think it should jump the queue, the cleanest path is to raise it with [my manager] so we can weigh it against everything else - happy to join that. What I *can* do regardless: a 30-min walkthrough this week so whoever owns it isn't starting from zero, plus a design review once they've got a draft. Want me to grab time for the walkthrough?"
 
 Clear no up top, true neutral reason, routed to the right decision-maker, bounded real offer, warm throughout.
 
 ## Common pitfalls
 
-- **Burying the no** under paragraphs of apology — it reads as a soft yes and invites a counter-pitch.
+- **Burying the no** under paragraphs of apology - it reads as a soft yes and invites a counter-pitch.
 - **Inventing reasons** ("so slammed") that can be negotiated away. Use the true, structural reason.
-- **A wall with no alternative** — reads as territorial and damages the relationship.
+- **A wall with no alternative** - reads as territorial and damages the relationship.
 - **Absorbing the priority call yourself** instead of routing it to whoever owns your roadmap.
 - **An escalating series of yeses** after the first push. Set the bounded offer once and hold it.
 

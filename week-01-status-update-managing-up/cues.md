@@ -1,4 +1,4 @@
-# Week 01: Manager cues — The status update
+# Week 01: Manager cues - The status update
 
 This is the meta layer. None of it is in the answer file; all of it is what your manager (and any skip-level in the room) is actually scoring while you talk.
 
@@ -16,8 +16,8 @@ This is the meta layer. None of it is in the answer file; all of it is what your
 ## Yellow flags
 
 - Pure activity logs ("worked on," "looked into," "spent time on") with no outcome.
-- Overselling — the room quietly recalibrates everything you say downward.
-- Underselling — they forget you, then are surprised you wanted a promotion.
+- Overselling - the room quietly recalibrates everything you say downward.
+- Underselling - they forget you, then are surprised you wanted a promotion.
 - Trailing fade-outs that delete your own confidence.
 
 ## Red flags
@@ -29,7 +29,7 @@ This is the meta layer. None of it is in the answer file; all of it is what your
 
 ## The killer follow-up
 
-If your update is strong, expect: **"Nice — what's the plan for next week?"**
+If your update is strong, expect: **"Nice - what's the plan for next week?"**
 
 This is not small talk. They're testing whether you can prioritize, not just execute. The senior answer names *one or two* things tied to impact and a tradeoff:
 
@@ -40,6 +40,6 @@ Naming the tradeoff *before* they ask is the senior tell.
 ## What "senior" looks like vs. "mid-level"
 
 - **Mid-level** reports what they did.
-- **Senior** reports what *changed*, what it's *worth*, and what they'll *do next* — calmly, in under a minute.
+- **Senior** reports what *changed*, what it's *worth*, and what they'll *do next* - calmly, in under a minute.
 
 The underseller and the overseller are making the same mistake from opposite directions: both are letting emotion set the volume. Neutral, factual, impact-led delivery is the only setting that reads as senior.

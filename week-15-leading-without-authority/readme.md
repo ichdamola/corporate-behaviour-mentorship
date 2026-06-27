@@ -2,7 +2,7 @@
 
 ## 🎯 The situation
 
-You're driving a project that depends on people who don't report to you — across teams, maybe across orgs. You can't assign them work, you can't grade them, and they all have their own bosses and priorities pulling them elsewhere. Success depends entirely on your ability to align, motivate, and unblock people you have zero formal power over. This is the core skill of senior ICs and the thing every "lead"/"staff"/"principal" promo packet is secretly testing.
+You're driving a project that depends on people who don't report to you - across teams, maybe across orgs. You can't assign them work, you can't grade them, and they all have their own bosses and priorities pulling them elsewhere. Success depends entirely on your ability to align, motivate, and unblock people you have zero formal power over. This is the core skill of senior ICs and the thing every "lead"/"staff"/"principal" promo packet is secretly testing.
 
 You need to move a cross-functional effort forward through influence alone.
 
@@ -26,5 +26,5 @@ You need to move a cross-functional effort forward through influence alone.
 - You sell the *why* and the shared win before assigning any *what*
 - You make participation low-friction: clear asks, clear deadlines, clear owners
 - You create visibility (a status others want to be seen in) instead of nagging
-- You borrow authority cleanly — loop in the right sponsors at the right moment
+- You borrow authority cleanly - loop in the right sponsors at the right moment
 - You give credit lavishly and publicly; people follow those who make them look good

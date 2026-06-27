@@ -1,4 +1,4 @@
-# Week 08: Cues — Getting credit / handling credit theft
+# Week 08: Cues - Getting credit / handling credit theft
 
 This is the meta layer. None of it is in the answer file; it's what the other side (manager, skip-level, report, peer, or committee) is actually scoring.
 
@@ -16,7 +16,7 @@ This is the meta layer. None of it is in the answer file; it's what the other si
 - *(to expand)*
 
 ## The killer follow-up
-*The hard question this situation tends to produce — and the senior way to answer it.*
+*The hard question this situation tends to produce - and the senior way to answer it.*
 
 ## What "senior" looks like vs. "mid-level"
 - **Mid-level** *(to expand)*

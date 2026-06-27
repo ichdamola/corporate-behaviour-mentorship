@@ -17,7 +17,7 @@ You need to decline in a way that protects your time *and* the relationship.
 
 ## ✅ Your job
 
-1. **Write the actual Slack reply** you'd send — word for word.
+1. **Write the actual Slack reply** you'd send - word for word.
 2. **Then open [answer.md](answer.md)** for the walkthrough on declining cleanly.
 3. **Read [cues.md](cues.md)** for what a good "no" signals vs. what a guilty over-explained "no" signals.
 
@@ -26,5 +26,5 @@ You need to decline in a way that protects your time *and* the relationship.
 - A clear no, early in the message, not buried under three paragraphs of apology
 - Routes the priority decision to where it belongs (your manager / their roadmap)
 - Offers a smaller, bounded alternative instead of a flat wall
-- No fake reasons — neutral and factual, so it can't be argued with
+- No fake reasons - neutral and factual, so it can't be argued with
 - The relationship is intact; you're a "clear communicator," not a "blocker"

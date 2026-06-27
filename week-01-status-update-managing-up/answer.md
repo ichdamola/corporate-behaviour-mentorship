@@ -1,7 +1,7 @@
-# Week 01: The status update — Walkthrough
+# Week 01: The status update - Walkthrough
 
 > ⏱️ **Time budget:** 60–90 seconds of airtime, 10 minutes to draft it
-> 🎯 **Goal:** Be remembered as someone who ships *impact* — without becoming the person who oversells. You don't need a flashy week. You need the *rhythm*.
+> 🎯 **Goal:** Be remembered as someone who ships *impact* - without becoming the person who oversells. You don't need a flashy week. You need the *rhythm*.
 
 ---
 
@@ -9,7 +9,7 @@
 
 Before you write a word, ask: who's actually in this meeting, and who is this update *for*?
 
-A weekly sync has two audiences. The surface audience is your peers. The real audience is your manager (and, when present, the skip-level) building a running model of who's reliable and who's growing. Your update is one data point in a long series. The goal isn't to win the meeting — it's to add a clean line to that running model.
+A weekly sync has two audiences. The surface audience is your peers. The real audience is your manager (and, when present, the skip-level) building a running model of who's reliable and who's growing. Your update is one data point in a long series. The goal isn't to win the meeting - it's to add a clean line to that running model.
 
 > 💬 **How to say it:** *(internally)* "Who's deciding things about my career based on how I show up here?"
 
@@ -37,7 +37,7 @@ Those are not "just" anything. The underseller's whole problem is that they appl
 
 ## 4. Pick the channel
 
-A live sync is verbal *and* ephemeral. If it's only spoken, it evaporates. So the move is **both**: say it crisply out loud, and make sure it lives in writing somewhere searchable — the team channel, a shared doc, the sprint board.
+A live sync is verbal *and* ephemeral. If it's only spoken, it evaporates. So the move is **both**: say it crisply out loud, and make sure it lives in writing somewhere searchable - the team channel, a shared doc, the sprint board.
 
 The written version is the receipt your manager (and future-you, at promo time) can point to. Verbal gets you remembered this week; written gets you remembered this quarter.
 
@@ -51,11 +51,11 @@ Out loud, lead with the impact, not the activity. The structure:
 
 ❌ "So this week I was working on the checkout thing, and I also spent some time helping Sam, and the payments project is kind of moving along."
 
-✅ "Checkout's fixed — that bug was hitting 4% of users at the payment step, so it was costing real conversions. It's deployed. Payments project hit its first working endpoint, and I helped Sam unblock the migration so that's moving again."
+✅ "Checkout's fixed - that bug was hitting 4% of users at the payment step, so it was costing real conversions. It's deployed. Payments project hit its first working endpoint, and I helped Sam unblock the migration so that's moving again."
 
 Same week. Completely different signal.
 
-> 💬 **How to say it:** "Headline first. 'X is now unblocked / shipped / live' — then the detail, only if they want it."
+> 💬 **How to say it:** "Headline first. 'X is now unblocked / shipped / live' - then the detail, only if they want it."
 
 ## 6. Stay neutral
 
@@ -72,17 +72,17 @@ Neutral is the cure for both. State impact as a **matter of fact**, no edge, no 
 
 ## 7. Leave a receipt
 
-You already did this in move 4 with the async note — but make it a habit, not a one-off. A running thread or doc where your weekly impact accumulates is the single highest-leverage promo artifact you can build, because at review time you (and your manager) are reconstructing six months from memory otherwise.
+You already did this in move 4 with the async note - but make it a habit, not a one-off. A running thread or doc where your weekly impact accumulates is the single highest-leverage promo artifact you can build, because at review time you (and your manager) are reconstructing six months from memory otherwise.
 
-> 💬 **How to say it (keep a private running doc):** "Wins log — wk of [date]: checkout bug (4% users) fixed + deployed; payments first endpoint; unblocked Sam."
+> 💬 **How to say it (keep a private running doc):** "Wins log - wk of [date]: checkout bug (4% users) fixed + deployed; payments first endpoint; unblocked Sam."
 
 ## 8. Route it up or down
 
-If your update contains something your manager should *act* on — a risk, a decision needed, a win worth escalating — flag it explicitly rather than burying it in the stream.
+If your update contains something your manager should *act* on - a risk, a decision needed, a win worth escalating - flag it explicitly rather than burying it in the stream.
 
-> 💬 **How to say it:** "One thing for you specifically — the checkout bug had been live for a few weeks before we caught it, so I think there's a monitoring gap worth a quick look. Happy to own that if useful."
+> 💬 **How to say it:** "One thing for you specifically - the checkout bug had been live for a few weeks before we caught it, so I think there's a monitoring gap worth a quick look. Happy to own that if useful."
 
-That single line does three things: surfaces a real risk, shows you think beyond your ticket, and volunteers ownership — all in calibrated, neutral language.
+That single line does three things: surfaces a real risk, shows you think beyond your ticket, and volunteers ownership - all in calibrated, neutral language.
 
 ## 9. Hold the boundary
 
@@ -92,15 +92,15 @@ The boundary in a status update is **brevity**. You committed to ~60 seconds. Ho
 
 ## 10. Close the loop
 
-If you flagged something for follow-up (the monitoring gap), close it next week. The people who get the "reliable" label are the ones whose updates *connect* week to week — they said they'd do a thing, and the next update shows they did. That continuity is the whole game.
+If you flagged something for follow-up (the monitoring gap), close it next week. The people who get the "reliable" label are the ones whose updates *connect* week to week - they said they'd do a thing, and the next update shows they did. That continuity is the whole game.
 
-> 💬 **How to say it (next week):** "Following up on the monitoring gap I flagged — added alerting on checkout, so we'll catch that class of bug in minutes now instead of weeks."
+> 💬 **How to say it (next week):** "Following up on the monitoring gap I flagged - added alerting on checkout, so we'll catch that class of bug in minutes now instead of weeks."
 
 ---
 
-## Putting it together — the full 60 seconds
+## Putting it together - the full 60 seconds
 
-> "Quick one from me. Checkout's fixed — that bug was hitting about 4% of users right at the payment step, so it was quietly costing conversions. It's deployed. Payments project hit its first working endpoint this week, and I helped Sam unblock the migration so that's moving again. One thing for you, [manager] — the bug was live a while before we caught it, so there's a monitoring gap I'd like to close; I'll own that. That's me."
+> "Quick one from me. Checkout's fixed - that bug was hitting about 4% of users right at the payment step, so it was quietly costing conversions. It's deployed. Payments project hit its first working endpoint this week, and I helped Sam unblock the migration so that's moving again. One thing for you, [manager] - the bug was live a while before we caught it, so there's a monitoring gap I'd like to close; I'll own that. That's me."
 
 Impact-led, neutral, credited a teammate, surfaced a risk, volunteered ownership, ended clean. ~45 seconds.
 
