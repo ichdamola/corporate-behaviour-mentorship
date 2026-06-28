@@ -5,8 +5,6 @@
 
 🌟 Star this repo if you're trying to get promoted, manage a team, or just stop replaying conversations at 2am.
 
-> ⚠️ **Status, plainly:** Weeks 01–03 are written out in full (situation + 10-move walkthrough + cues). **Weeks 04–16 ship as scaffolds today** - the situation prompts are complete, the walkthroughs and cues are skeletons that will be filled in. If you're a mentee, this means you can run the full loop on weeks 01–03 today; for weeks 04+ you'll get the prompt and the structure but you're filling in the canonical answer with your mentor for now.
-
 ## 🎯 Why this exists
 
 Most career advice teaches you *what* to think. This curriculum teaches you the *rhythm* a composed operator uses under pressure - read the room, name the goal, deliver neutrally, leave a receipt, route it up or down, close the loop.
@@ -60,19 +58,19 @@ Interleaved through every move: 💬 **"how to say it"** callouts - literal phra
 | ☐ | 01 | [The status update that makes you look good](week-01-status-update-managing-up) | ⬆️ Up | ⭐ | ✅ Complete |
 | ☐ | 02 | [Disagreeing with your manager](week-02-disagreeing-with-your-manager) | ⬆️ Up | ⭐⭐ | ✅ Complete |
 | ☐ | 03 | [Saying no without burning the relationship](week-03-saying-no-without-burning-it) | ↔️ Lateral | ⭐⭐ | ✅ Complete |
-| ☐ | 04 | [Delivering bad news / a missed deadline](week-04-delivering-bad-news) | ⬆️ Up | ⭐⭐ | 🚧 Scaffold |
-| ☐ | 05 | [New manager / reorg: building trust fast](week-05-new-manager-reorg) | ⬆️ Up | ⭐⭐ | 🚧 Scaffold |
-| ☐ | 06 | [Giving hard feedback to a report](week-06-feedback-to-a-report) | ⬇️ Down | ⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 07 | [The underperformer (the PIP conversation)](week-07-the-underperformer) | ⬇️ Down | ⭐⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 08 | [Getting credit / handling credit theft](week-08-credit-and-credit-theft) | ↔️ Lateral | ⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 09 | [The skip-level meeting](week-09-the-skip-level) | ⬆️ Up | ⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 10 | [Pushing back on an unrealistic deadline](week-10-pushing-back-on-a-deadline) | ⬆️ Up | ⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 11 | [The difficult peer](week-11-the-difficult-peer) | ↔️ Lateral | ⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 12 | [Managing up to a chaotic / absent manager](week-12-managing-up-to-chaos) | ⬆️ Up | ⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 13 | [Asking for a promotion](week-13-asking-for-a-promotion) | ⬆️ Up | ⭐⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 14 | [Compensation negotiation](week-14-compensation-negotiation) | ⬆️ Up | ⭐⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 15 | [Leading without authority](week-15-leading-without-authority) | ↔️ Lateral | ⭐⭐⭐⭐ | 🚧 Scaffold |
-| ☐ | 16 | [Org instability / layoffs (you + your team)](week-16-org-instability-layoffs) | ⬆️⬇️ Both | ⭐⭐⭐⭐ | 🚧 Scaffold |
+| ☐ | 04 | [Delivering bad news / a missed deadline](week-04-delivering-bad-news) | ⬆️ Up | ⭐⭐ | ✅ Complete |
+| ☐ | 05 | [New manager / reorg: building trust fast](week-05-new-manager-reorg) | ⬆️ Up | ⭐⭐ | ✅ Complete |
+| ☐ | 06 | [Giving hard feedback to a report](week-06-feedback-to-a-report) | ⬇️ Down | ⭐⭐⭐ | ✅ Complete |
+| ☐ | 07 | [The underperformer (the PIP conversation)](week-07-the-underperformer) | ⬇️ Down | ⭐⭐⭐⭐ | ✅ Complete |
+| ☐ | 08 | [Getting credit / handling credit theft](week-08-credit-and-credit-theft) | ↔️ Lateral | ⭐⭐⭐ | ✅ Complete |
+| ☐ | 09 | [The skip-level meeting](week-09-the-skip-level) | ⬆️ Up | ⭐⭐⭐ | ✅ Complete |
+| ☐ | 10 | [Pushing back on an unrealistic deadline](week-10-pushing-back-on-a-deadline) | ⬆️ Up | ⭐⭐⭐ | ✅ Complete |
+| ☐ | 11 | [The difficult peer](week-11-the-difficult-peer) | ↔️ Lateral | ⭐⭐⭐ | ✅ Complete |
+| ☐ | 12 | [Managing up to a chaotic / absent manager](week-12-managing-up-to-chaos) | ⬆️ Up | ⭐⭐⭐ | ✅ Complete |
+| ☐ | 13 | [Asking for a promotion](week-13-asking-for-a-promotion) | ⬆️ Up | ⭐⭐⭐⭐ | ✅ Complete |
+| ☐ | 14 | [Compensation negotiation](week-14-compensation-negotiation) | ⬆️ Up | ⭐⭐⭐⭐ | ✅ Complete |
+| ☐ | 15 | [Leading without authority](week-15-leading-without-authority) | ↔️ Lateral | ⭐⭐⭐⭐ | ✅ Complete |
+| ☐ | 16 | [Org instability / layoffs (you + your team)](week-16-org-instability-layoffs) | ⬆️⬇️ Both | ⭐⭐⭐⭐ | ✅ Complete |
 
 ## 📋 How each week works
 
